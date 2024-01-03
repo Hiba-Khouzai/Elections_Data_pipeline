@@ -70,7 +70,6 @@ L'accent sera mis sur la collecte, le traitement et la présentation des donnée
 **Note d'Avertissement : Ce projet est une simulation d'élections présidentielles à des fins éducatives et démo technologique. Les données présentées, y compris les votes, sont générées à partir d'une API d'utilisateurs fictifs et ne représentent en aucun cas des élections réelles.**
 
 
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
