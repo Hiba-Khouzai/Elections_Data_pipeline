@@ -106,9 +106,25 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+  * Python 3.11
+  * Executer le fichier main.py
+    ```sh
+    python main.py
+    ```
+
+* Executer le fichier voting.py
   ```sh
-  npm install npm@latest -g
+  python voting.py
+  ```
+
+* Executer le fichier spark-streaming.py
+  ```sh
+  python spark-streaming.py
+  ```
+
+* Executer le fichier streamlit-app.py
+  ```sh
+  streamlit run spark-streaming.py
   ```
 
 ### Installation
