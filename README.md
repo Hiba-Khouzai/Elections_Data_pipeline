@@ -60,18 +60,15 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## A propos du projet
 ![pipeline](https://github.com/Hiba-Khouzai/Elections_Data_pipeline/assets/77845394/08db0123-1120-40d8-92ff-fb62d00906ff)
 
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Le présent projet a pour objectif de mettre en place un système de suivi en temps réel des élections présidentielles. 
+L'accent sera mis sur la collecte, le traitement et la présentation des données électorales, permettant aux utilisateurs d'obtenir des informations pertinentes et actualisées au fur et à mesure du déroulement du processus électoral.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+**Note d'Avertissement : Ce projet est une simulation d'élections présidentielles à des fins éducatives et démo technologique. Les données présentées, y compris les votes, sont générées à partir d'une API d'utilisateurs fictifs et ne représentent en aucun cas des élections réelles.**
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 Use the `BLANK_README.md` to get started.
 
@@ -81,7 +78,7 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Ce projet a été crée avec les technologies suivantes.
 
 * [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/)
 * [![Spark Streaming](https://img.shields.io/badge/Spark%20Streaming-2.4.8-2496ED?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/streaming/)
@@ -103,7 +100,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prérequis
 
 This is an example of how to list things you need to use the software and how to install them.
   * Python 3.11
