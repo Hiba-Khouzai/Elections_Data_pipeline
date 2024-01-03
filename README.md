@@ -86,7 +86,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/)
 * [![Spark Streaming](https://img.shields.io/badge/Spark%20Streaming-2.4.8-2496ED?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/streaming/)
 
-* [![Kafka](https://img.shields.io/badge/Apache%20Kafka-2.8.0-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
+* [![Kafka](https://img.shields.io/badge/Apache%20Kafka-7.4.0-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)][(https://kafka.apache.org/)](https://hub.docker.com/r/confluentinc/cp-kafka/tags)
 
 * [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
