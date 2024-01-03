@@ -84,13 +84,14 @@ Use the `BLANK_README.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/)
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Spark Streaming](https://img.shields.io/badge/Spark%20Streaming-2.4.8-2496ED?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/streaming/)
+
+* [![Kafka](https://img.shields.io/badge/Apache%20Kafka-2.8.0-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
+
+* [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+* [![Streamlit](https://img.shields.io/badge/Streamlit-1.9.0-FF4F5A?style=for-the-badge&logo=streamlit&logoColor=white)](https://www.streamlit.io/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
