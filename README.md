@@ -119,7 +119,7 @@ Voici les etapes à suivre pour executer le projet:
 
 * Executer le fichier streamlit-app.py
   ```sh
-  streamlit run spark-streaming.py
+  streamlit run streamlit-app.py
   ```
 
 
